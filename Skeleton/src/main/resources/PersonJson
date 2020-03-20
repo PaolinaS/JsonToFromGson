@@ -1,0 +1,31 @@
+{
+  "name": "Mitko",
+  "phoneNumbers": [
+    "333",
+    "1111",
+    "2222"
+  ],
+  "addressDto": {
+    "city": "Sofia",
+    "country": "bg"
+  }
+}
+
+{
+  "firstName": "Mitko",
+  "phoneNumbers": [
+    {
+      "number": "1111"
+    },
+    {
+      "number": "2222"
+    },
+    {
+      "number": "333"
+    }
+  ],
+  "addressDto": {
+    "city": "Sofia",
+    "country": "bg"
+  }
+}
